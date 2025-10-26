@@ -9,7 +9,7 @@ import os
 
 # Set page config
 st.set_page_config(
-    page_title="Word Table Formatter",
+    page_title="Teaching Pariksha Word Formatter",
     page_icon="📊",
     layout="centered"
 )
@@ -138,4 +138,5 @@ def main():
         """)
 
 if __name__ == "__main__":
+
     main()
