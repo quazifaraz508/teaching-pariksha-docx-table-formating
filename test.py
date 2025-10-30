@@ -51,7 +51,7 @@ def fix_table_background(doc):
     return doc
 
 def main():
-    st.title("📊 Teaching Pariskha Word Formatter")
+    st.title("📊 Teaching Pariksha Word Formatter")
     st.markdown("Fix black background tables in Word documents")
     
     # File upload section
@@ -140,4 +140,5 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
